@@ -2,7 +2,7 @@
 Este repositório é responsável por armazenar todas as atividades do primeiro bloco: _Unix & Bash_ da [Trybe](https://betrybe.com) :rocket:
 
 ## Parte I - Criação de arquivos e diretórios
-Os exercicios estão resolvidos no arquivo [creation-files-and-directories.sh](https://github.com/silvainvic/Trybe2/blob/main/trybe-exercises/basis-of-development-web/unix-bash-and-shell/creation-files-and-directories.sh)
+Os exercicios estão resolvidos no arquivo [creation-files-and-directories.sh](https://github.com/silvainvic/Trybe2/blob/main/trybe-exercises/basis-of-development-web/unix-bash-and-shell/day-one/creation-files-and-directories.sh)
 
 1. Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu, crie um diretório chamado **unix_tests**** e navegue até ele.
 2. Crie um arquivo de texto com o nome `trybe.txt`.
@@ -22,7 +22,7 @@ Os exercicios estão resolvidos no arquivo [creation-files-and-directories.sh](h
 16. Apague todos os arquivos que terminem em `.txt`.
 
 ## Parte II - Manipulação e Busca
-Os exercicios estão resolvidos no arquivo [manipulation-and-search.sh](https://github.com/silvainvic/Trybe2/blob/main/trybe-exercises/basis-of-development-web/unix-bash-and-shell/manipulation-and-search.sh)
+Os exercicios estão resolvidos no arquivo [manipulation-and-search.sh](https://github.com/silvainvic/Trybe2/blob/main/trybe-exercises/basis-of-development-web/unix-bash-and-shell/day-one/manipulation-and-search.sh)
 
 1. Na pasta **unix_tests**, baixe um arquivo com os nomes de todos os países do mundo utilizando o comando curl:
    
