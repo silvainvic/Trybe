@@ -1,4 +1,11 @@
-#delay;
+# Descobri a possibilidade de automatização em scripts shell, assistindo ao conteúdo bônus e olhando as referências de GitHUB de ex-alunos oferecidas pela trybe.
+#
+# Creditos: https://github.com/paulohbsimoes - Paulo Simões   -   Ex-Aluno Tryber.
+#
+# Obs. Apesar dos comandos aqui serem parecidos com o script desenvolvido por Paulo Simões, me comprometi a usar apenas como referência visual. Todos os comandos foram aplicados utilizando apenas o meu conhecimento até aqui. 
+#------------------------------------------------------
+
+#Var: delay;
 sleep=1s
 
 #Exercise 1.;
