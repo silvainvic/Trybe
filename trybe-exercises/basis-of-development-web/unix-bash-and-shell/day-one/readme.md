@@ -1,5 +1,5 @@
 # Exercícios
-Este repositório é responsável por armazenar todas as atividades do primeiro bloco: _Unix & Bash_ da [Trybe](https://betrybe.com) :rocket:
+Este repositório é responsável por armazenar todas as atividades do primeiro dia, primeiro bloco: _Unix & Bash_ da [Trybe](https://betrybe.com) :rocket:
 
 ## Parte I - Criação de arquivos e diretórios
 Os exercicios estão resolvidos no arquivo [creation-files-and-directories.sh](https://github.com/silvainvic/Trybe2/blob/main/trybe-exercises/basis-of-development-web/unix-bash-and-shell/day-one/creation-files-and-directories.sh)
