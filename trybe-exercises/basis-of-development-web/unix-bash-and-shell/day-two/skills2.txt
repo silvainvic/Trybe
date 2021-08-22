@@ -1,9 +1,0 @@
-Internet
-Unix
-Bash
-
-Php
-VueJS
-React
-TypeScript
-C++
