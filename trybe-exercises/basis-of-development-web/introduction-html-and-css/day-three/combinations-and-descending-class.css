@@ -1,0 +1,22 @@
+ol { background-color: yellow; }
+ol li:nth-of-type(even) { color: green; }
+ol li:nth-of-type(odd) { text-transform: uppercase; }
+
+h1, h2, h3, h4, h5, h6 { color: red; }
+h1 > em, h2 > em, h3 > em,
+h4 > em, h5 > em, h6 > em {
+    font-size: 40px;
+    border-bottom: 1px solid black;
+}
+
+li { font-size: 20px; }
+li em { font-weight: bolder; }
+
+.languages .java { background-color: pink; }
+.languages li:nth-of-type(-n+3) { color: blue; }
+
+.allies li a:hover { font-weight: bolder; }
+.allies li a:hover.orange { color: orange; }
+.allies li a:hover.green { color: green; }
+.allies li a:hover.black { color: black; }
+.allies li a:hover.yellow { color: yellow; }
