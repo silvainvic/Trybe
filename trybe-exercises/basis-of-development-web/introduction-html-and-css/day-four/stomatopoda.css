@@ -1,0 +1,28 @@
+* { margin: 0; padding: 0; border: 0; box-sizing: border-box; }
+
+header nav {background-color: rgb(220, 220, 220); border-bottom: 1px solid rgb(200, 200, 200); }
+header nav ul { margin: 0 auto; width: 80%; list-style: none; }
+header nav ul li { padding: 10px 10px; display: inline-block; text-align: center; }
+header nav ul li:hover { background-color: rgb(200, 200, 200); color: rgb(000, 000, 000); transition: all .5s; }
+header nav ul li a { color: rgb(040, 040, 040); text-decoration: none; }
+
+header h1 { margin: 20px 10%; }
+
+main {  margin: 0 auto; display: table; width: 80%; border: solid 1px black; }
+main article { padding: 20px; }
+main article table { margin: 0 10px; display: table; float: right; }
+main article table tr {}
+main article table tr th { background-color: pink; }
+footer { padding: 40px; }
+footer p { text-align: center; }
+
+/* * { margin: 0; padding: 0; border: 0; box-sizing: border-box; }
+
+
+footer {
+    padding: 40px;
+}
+
+footer p {
+    text-align: center;
+} */
