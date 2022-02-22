@@ -2,7 +2,6 @@
 
 ### Bloco 2: Git, GitHub e Internet
 
-
 <div class="warning">
 <h1>Importante!</h1>
 <p>
@@ -10,4 +9,4 @@ Todo campo de instrução da Trybe é coberto por conteúdo escrito, em vídeo, 
 </p>
 </div>
 
-<link rel="stylesheet" href="../../../_css/markdown.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/silvainvic/Trybe/main/_css/markdown.css">
