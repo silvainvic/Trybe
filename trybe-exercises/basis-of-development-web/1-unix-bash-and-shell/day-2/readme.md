@@ -1,7 +1,20 @@
-# Exercícios
-Este repositório é responsável por armazenar todas as atividades do segundo dia, primeiro bloco: _Unix & Bash_ da [Trybe](https://betrybe.com) :rocket:
+# Fundamentos do Desenvolvilmento Web - ( Unix & Bash )
 
-## Parte I - Criação de arquivos e diretórios
+Este repositório é responsável por armazenar todas as atividades do **segundo dia** do primeiro bloco **Unix and Bash** do primeiro módulo **Fundamentos do desenvolvimento web** da [Trybe](https://betrybe.com) 🚀
+
+## Índice
+
+- [Fundamentos do Desenvolvilmento Web - ( Unix & Bash )](#fundamentos-do-desenvolvilmento-web----unix--bash-)
+  - [Índice](#índice)
+  - [Atividades](#atividades)
+    - [Parte I - Criação de arquivos e diretórios](#parte-i---criação-de-arquivos-e-diretórios)
+    - [Parte II - Permissões](#parte-ii---permissões)
+    - [Parte III - Processos & Jobs](#parte-iii---processos--jobs)
+
+## Atividades
+
+### Parte I - Criação de arquivos e diretórios
+
 Os exercicios estão resolvidos no arquivo [input-and-output-commands.sh](https://github.com/silvainvic/Trybe2/blob/main/trybe-exercises/basis-of-development-web/unix-bash-and-shell/day-two/input-and-output-commands.sh)
 
 1. Navegue até a pasta **unix_tests**;
@@ -16,7 +29,8 @@ Os exercicios estão resolvidos no arquivo [input-and-output-commands.sh](https:
 10. Crie um novo arquivo chamado `bunch_of_things.txt` com os conteúdos dos arquivos `phrases2.txt` e `countries.txt`.
 11. Ordene o arquivo `bunch_of_things.txt`.
 
-## Parte II - Permissões
+### Parte II - Permissões
+
 Os exercicios estão resolvidos no arquivo [permissions.sh](https://github.com/silvainvic/Trybe2/blob/main/trybe-exercises/basis-of-development-web/unix-bash-and-shell/day-two/permissions.sh)
 
 1. Navegue até a pasta **unix_tests**;
@@ -25,7 +39,8 @@ Os exercicios estão resolvidos no arquivo [permissions.sh](https://github.com/s
 4. Tire a permissão de escrita do arquivo `bunch_of_things.txt` para todos os usuários, verifique se está correto com o comando `ls -l`;
 5. Volte à permissão do arquivo `bunch_of_things.txt` para a listada inicialmente utilizando o comando `chmod 644 bunch_of_things.txt`.
 
-## Parte III - Processos & Jobs
+### Parte III - Processos & Jobs
+
 Os exercicios estão resolvidos no arquivo [proccess-and-jobs.sh](https://github.com/silvainvic/Trybe2/blob/main/trybe-exercises/basis-of-development-web/unix-bash-and-shell/day-two/proccess-and-jobs.sh)
 
 1. Liste todos os processos;
